@@ -1,1 +1,6 @@
-{"downloadUrl":"https://github.com/aaalasem17-tech/digital-teachers-library/releases/download/v0.1.7/dtl-0.1.7-app.zip","libraryVersion":"0.1.5","notes":"ضبط محاذاة الغلاف بالسحب المباشر: اسحب أي حقل على الغلاف نفسه لنقله (بدل جدول المليمترات)؛ حجم الخط بمبدّل +/− عند اختيار الحقل. المكتبة بلا تغيير (0.1.5).","version":"0.1.7"}
+{
+  "downloadUrl": "https://github.com/aaalasem17-tech/digital-teachers-library/releases/download/v0.1.8/dtl-0.1.8-app.zip",
+  "libraryVersion": "0.1.5",
+  "notes": "ملاحظات الفحص: سرعة + صفوفي ومربي + سحب الغلاف الحر والكتابة عليه + استيراد السجلات والشهادات + ملاحظات مربي الصف. المكتبة بلا تغيير (0.1.5).",
+  "version": "0.1.8"
+}
