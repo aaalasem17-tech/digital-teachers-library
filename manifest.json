@@ -1,6 +1,1 @@
-{
-  "downloadUrl": "https://github.com/aaalasem17-tech/digital-teachers-library/releases/download/v0.1.8/dtl-0.1.8-app.zip",
-  "libraryVersion": "0.1.5",
-  "notes": "ملاحظات الفحص: سرعة + صفوفي ومربي + سحب الغلاف الحر والكتابة عليه + استيراد السجلات والشهادات + ملاحظات مربي الصف. المكتبة بلا تغيير (0.1.5).",
-  "version": "0.1.8"
-}
+{"downloadUrl":"https://github.com/aaalasem17-tech/digital-teachers-library/releases/download/v0.1.9/dtl-0.1.9-app.zip","libraryVersion":"0.1.5","notes":"التحضير لكل المواد (2,535 درساً) + إصلاحات الشهادات والغلاف والتعديل على كل الوثائق وإضافة/حذف طالب + فصل السجل الجانبي عن النهائي. المكتبة بلا تغيير (0.1.5) — ملفان جديدان مرفقان مع التطبيق.","version":"0.1.9"}
